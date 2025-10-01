@@ -1,0 +1,8 @@
+D:\Saját meghajtó\C#\Snake_game\bin\Debug\Snake_game.exe.config
+D:\Saját meghajtó\C#\Snake_game\bin\Debug\Snake_game.exe
+D:\Saját meghajtó\C#\Snake_game\bin\Debug\Snake_game.pdb
+D:\Saját meghajtó\C#\Snake_game\obj\Debug\Snake_game.csproj.AssemblyReference.cache
+D:\Saját meghajtó\C#\Snake_game\obj\Debug\Snake_game.csproj.CoreCompileInputs.cache
+D:\Saját meghajtó\C#\Snake_game\obj\Debug\Snake_game.exe
+D:\Saját meghajtó\C#\Snake_game\obj\Debug\Snake_game.pdb
+D:\Saját meghajtó\C#\Snake_game\obj\Debug\Snake_game.exe.config
